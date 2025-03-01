@@ -25,23 +25,35 @@ Waterfall uses a sequential linear process that is rigid with heavy documentatio
 Waterfall can be used to design and develop systems that require strict compliance and detailed documentation like a banking system while Agile can be used to build softwares that require rapid iterations and depend on customer feedback like mobile apps with evolving user requirements
 
 
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+A software engineer's role is writing, testing and optimizing code. Their responsibilities includes collaborating with other developres, designers and analysts to build high-quality and user-centred softwares
 
+A quality assurance engineer's role is to ensure that the software meets quality standards before deployment. Their responsibilities include developing and implementing test plans and cases, identifying bugs and documenting defects, and conducting automated and manual testing.
+
+The role of a project manager is to oversee the development process, ensuring that the projects are completed within the timeframe and budget. Their responsibility includes planning project timelines and deliverables, managing resources and team coordination, communicating with stakeholders and assessing risks and ensuring alignment with business goals and needs.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+IDEs streamline development by providing tools such as code editors, debuggers and compilers in one interface. This improves coding efficiency and reduces errors through the in-built debugging tools. Examples include Visual Studio Code and Eclipse.
+
+VCS helps developers track and manage changes to codebases by enabling collaboration and maintaining a history of changes. Examples include Git and Apache Subversion (SVN).
+
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+1. Managing complex codebases - The solution includes following modular programming, using design patterns and maintaining clean code.
+2. Keeping up with emerging technologies - The solution to this is reading industry blogs, enrolling in online courses and doing side projects.
+3. Meeting tight deadlines - Use Agile methodologies to prioritize tasks and time management techniques.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+1. Unit testing - It tests the individual components of code or function of a software. This helps catch bugs early in the development cycle. For example, unit testing can be used to test a function that calculates user balance in a banking app.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is the process of crafting effective inputs/ questions to guide AI models to generate accurate, useful and relevant responses. The importance of making valid queries is that it increases accuracy and reduces ambiguity, which saves the user time.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt - What do you know about tech?
+Improved prompt - Explain how artificial intelligence is revolutionizing healthcare, including its benefits and real-life examples of its impacts?
+The imrpoved prompt is more effective because it is specific to a particular subject and focus on clarity and conciseness to direct the AI on the information they should display.
